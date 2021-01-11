@@ -25,7 +25,7 @@
 #import <UIKit/UICollectionView.h>
 
 
-@interface UIScrollView (Additions)
+@interface UIScrollView (IQKAdditions)
 
 /**
  If YES, then scrollview will ignore scrolling (simply not scroll it) for adjusting textfield position. Default is NO.

@@ -28,7 +28,7 @@
  UIView category for managing UITextField/UITextView
  */
 
-@interface UIView (Additions)
+@interface UIView (IQKAdditions)
 
 /**
  To set customized distance from keyboard for textField/textView. Can't be less than zero

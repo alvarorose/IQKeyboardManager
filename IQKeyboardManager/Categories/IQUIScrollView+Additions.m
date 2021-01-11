@@ -24,7 +24,7 @@
 #import "IQUIScrollView+Additions.h"
 #import <objc/runtime.h>
 
-@implementation UIScrollView (Additions)
+@implementation UIScrollView (IQKAdditions)
 
 -(void)setShouldIgnoreScrollingAdjustment:(BOOL)shouldIgnoreScrollingAdjustment
 {

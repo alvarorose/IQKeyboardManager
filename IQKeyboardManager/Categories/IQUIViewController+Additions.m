@@ -25,7 +25,7 @@
 #import <UIKit/NSLayoutConstraint.h>
 #import <objc/runtime.h>
 
-@implementation UIViewController (Additions)
+@implementation UIViewController (IQKAdditions)
 
 -(nullable UIViewController*)parentIQContainerViewController
 {
